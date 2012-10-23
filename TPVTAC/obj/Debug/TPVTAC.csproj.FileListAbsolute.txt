@@ -1,0 +1,16 @@
+C:\Users\davidl\Documents\Visual Studio 2008\Projects\TPV\TPVTAC\TPVTAC\bin\Debug\TPVTAC.exe
+C:\Users\davidl\Documents\Visual Studio 2008\Projects\TPV\TPVTAC\TPVTAC\bin\Debug\TPVTAC.pdb
+C:\Users\davidl\Documents\Visual Studio 2008\Projects\TPV\TPVTAC\TPVTAC\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\davidl\Documents\Visual Studio 2008\Projects\TPV\TPVTAC\TPVTAC\obj\Debug\TPVTAC.Properties.Resources.resources
+C:\Users\davidl\Documents\Visual Studio 2008\Projects\TPV\TPVTAC\TPVTAC\obj\Debug\TPVTAC.csproj.GenerateResource.Cache
+C:\Users\davidl\Documents\Visual Studio 2008\Projects\TPV\TPVTAC\TPVTAC\obj\Debug\TPVTAC.exe
+C:\Users\davidl\Documents\Visual Studio 2008\Projects\TPV\TPVTAC\TPVTAC\obj\Debug\TPVTAC.pdb
+C:\Users\davidl\Documents\Visual Studio 2008\Projects\TPV\TPVTAC\TPVTAC\obj\Debug\TPVTAC.ftpvt.resources
+C:\Users\davidl\Documents\Visual Studio 2008\Projects\TPV\TPVTAC\TPVTAC\obj\Debug\TPVTAC.FEntraus.resources
+C:\Users\davidl\Documents\Visual Studio 2008\Projects\TPV\TPVTAC\TPVTAC\obj\Debug\TPVTAC.LogIn.resources
+C:\Users\davidl\Documents\Visual Studio 2008\Projects\TPV\TPVTAC\TPVTAC\obj\Debug\TPVTAC.fBackgroundWhite.resources
+C:\Users\davidl\Documents\Visual Studio 2008\Projects\TPV\TPVTAC\TPVTAC\bin\Debug\TPVTAC.exe.config
+C:\Users\davidl\Documents\Visual Studio 2008\Projects\TPV\TPVTAC\TPVTAC\obj\Debug\TPVTAC.fGenericCatalog.resources
+C:\Users\davidl\Documents\Visual Studio 2008\Projects\TPV\TPVTAC\TPVTAC\obj\Debug\TPVTAC.ViBlendTeclado.resources
+C:\Users\davidl\Documents\Visual Studio 2008\Projects\TPV\TPVTAC\TPVTAC\bin\Debug\TextShowKeyboardLib.dll
+C:\Users\davidl\Documents\Visual Studio 2008\Projects\TPV\TPVTAC\TPVTAC\bin\Debug\TextShowKeyboardLib.pdb
